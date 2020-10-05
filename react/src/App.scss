@@ -1,0 +1,8 @@
+.btn {
+    padding: 10px 15px;
+    display: inline-block;
+    border-radius: 2px;
+    background-color: rgb(23, 19, 255); /* 不支持线性的时候显示 */
+    color: white;
+    // background-image: linear-gradient(to bottom right, red , yellow);
+}

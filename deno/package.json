@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "deno": "^0.0.6"
+  }
+}
